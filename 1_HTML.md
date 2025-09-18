@@ -65,3 +65,23 @@ file_name.html
 ```
 
 ## Practice: Create `index.html`, add `<!doctype html>`, `<html>`, `<head>`, `<body>`
+
+```Html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>HIII</h1>
+</body>
+</html>
+```
+<img src="./images/first.png">
+
+- In vs code extensions install the Live server
+- Click the Go live 
+- in Default web browser it run the html code
